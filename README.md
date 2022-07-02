@@ -22,6 +22,7 @@
 - 💞️ I like to watch tech. videos and playing video games more often.
 
 - 💬 Have a look at my [portfolio](https://sreejith-s-kumar.netlify.app/).
+- 📧  Mail me on sreejithskumar80@gmail.com
 
 <h2> Skills </h2>
   <a href= https://github.com/SreejithSKumarGit?tab=repositories> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
